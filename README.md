@@ -9,4 +9,4 @@ PORT=8001
 DB_USERNAME=hemkanta04(atlas username)
 DB_PASSWORD=*******(atlas password)
 DB_NAME=hamrobazar(db name)
-4. finally,  npm start
+4. finally,  npm start.
